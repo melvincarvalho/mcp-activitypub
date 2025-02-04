@@ -1,0 +1,2 @@
+# mcp-activitypub
+mcp activitypub
